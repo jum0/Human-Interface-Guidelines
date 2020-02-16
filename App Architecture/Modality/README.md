@@ -1,7 +1,7 @@
 # Modality
 Modality is a design technique that presents content in a temporary mode that’s separate from the user's previous current context and requires an explicit action to exit. Presenting content modally can:
 
->  모달리티(Modality)는 사용자의 과거 현재 컨텍스트로부터 분리해서 임시로 콘텐츠를 표시하는 설계 기술이며, 종료하려면 명시적인 작업이 필요합니다. 콘텐츠를 모달로(modally) 나타내는 것을 다음과 같은 것을 할 수 있습니다.
+>  모달리티(Modality)는 사용자의 과거 현재 컨텍스트로부터 분리하여 임시로 콘텐츠를 나타내는 설계 기술이며, 종료하려면 명시적인 작업이 필요합니다. 콘텐츠를 모달로(modally) 나타내는 것을 다음과 같은 것을 할 수 있습니다.
 
 - Help people focus on a self-contained task or set of closely related options
 
@@ -80,3 +80,37 @@ current context 모달 뷰 스타일을 사용하여 분할 보기 창, 팝업 �
 **Keep modal tasks simple, short, and narrowly focused.** Avoid creating an app within your app. If a modal task is too complex, people can lose sight of the task they suspended when they entered the modal context. Be especially wary of creating modal tasks that involve a hierarchy of views because people can get lost and forget how to retrace their steps. If a modal task must contain subviews, provide a single path through the hierarchy and a clear path to completion. Avoid using a Done button for anything other than completing the task.
 
 > **모달 작업은 간단하고, 짧게 그리고 가까스로(narrowly) 집중되도록 하세요.** 애플리케이션 내에서 애플리케이션 만드는 것을 피하세요. 모달 작업이 너무 복잡하면, 사용자들은 모달 상황(context)을 마주할 때, 기존의 하고 있던 작업의 집중이 흐트러질 수 있습니다. 특히 뷰의 계층이 포함되어 있는 모달 작업을 생성할 때 주의하세요. 왜냐하면 사용자는 되돌아가는 방법을 잃거나 잊어버릴 수 있습니다. 모달 작업이 반드시 하위 뷰를 포함해야한다면, 계층을 통해서 single path(현재 사용자가 어디에 있는지 알 수 있도록 표시한 path)와 완료하기까지의 명확한 path를 제공하세요. 작업을 완료하는 것 외에는 완료(Done) 버튼을 제공하지 마세요.
+
+
+
+**Always include a button that dismisses the modal view.** For example, you might use Done or Cancel. Including a button ensures that the modal view is accessible to assistive technologies and provides an alternative to dismissal gestures.
+
+> **모달 뷰를 끝내는 버튼을 항상 포함하세요.** 예를 들어, Done 또는 Cancel 버튼을 사용합니다. 버튼을 포함하는 것은 모달 뷰가 보조의 기술에 접근 가능할 수 있도록 도와주고, 그만두는 행동에 대안을 제공합니다.
+
+
+
+**When necessary, help people avoid data loss by getting confirmation before closing a modal view.** Regardless of whether people use a dismiss gesture or a button to close the view, if the action could result in the loss of user-generated content, present an action sheet that explains the situation and gives people ways to resolve it.
+
+> **필요하다면, 모달 뷰를 닫기 전에 사용자에게 동의를 구함으로써 데이터가 손실되는 것을 도와주세요.** 사용자가 그만두는 제스처를 취하거나 뷰를 닫는 버튼을 사용하여 사용자의 데이터가 손실되는 결과를 발생할 수 있다면, 사용자에게 상황을 설명하고 해결하는 방법을 알려주는 action sheet를 나타내세요.
+
+
+
+**Don’t display a card that appears on top of a popover.** Although you can display a card within a popover, nothing should appear on top of a popover (except possibly an alert). In rare cases when you need to present a card after people take an action in a popover, close the popover before displaying the card.
+
+> **Popover의 맨 위에 나타나는 카드는 보여주지 마세요.** popover 안에 카드를 보여줄 수 있지만, popover의 맨 위에는 아무것도 보여서는 안됩니다. (어쩌면 알림을 제외하고요). 드문 경우로 사용자가 popover에서 행동을 취한 후 카드를 보여줘야 할 때, 카드를 보여주기 전에 popover를 닫으세요.
+
+
+
+**In general, display a title that identifies the modal task.** When people enter a modal task, they switch away from their previous context, so it’s a good idea to make the new context clear. You might also provide text in other parts of the view that more fully describes the task or provides guidance.
+
+> **일반적으로, 모달에서 진행되는 일을 확인할 수 있는 제목을 보여주세요.** 사용자가 모달에서 제공되는 태스크를 시작하게 되는 경우, 사용자들은 그들이 이전에 진행하고 있던 환경과 달라지는 경험을 하게 됩니다. 따라서 새로운 환경이라는 점을 명확하게 알려주는 것이 좋습니다. 또한 뷰의 다른 부분에서 태스크에 대한 자세한 설명이나 가이드라인을 텍스트로 제공할 수 있습니다.
+
+**Coordinate the modal view appearance with your app.** For example, when a modal view includes a navigation bar, it should use the same appearance as the navigation bar in your app.
+
+> **모달 뷰의 디자인을 앱에 맞게 조정하세요.** 예를 들어서, 모달 뷰가 내비게이션 바를 포함할 때, 앱에서도 내비게이션 바와 같은 디자인을 사용해야 합니다.
+
+ 
+
+**Choose a modal transition style that makes sense in your app.** Use a transition style that coordinates with your app and enhances the awareness of the temporary context shift. The default transition vertically slides the modal view up from the bottom of the screen and back down when it’s dismissed. Use consistent modal transition styles throughout your app.
+
+> **앱에서 이해할 수 있는 모달 변경 스타일을 선택하세요.** 앱에 맞는 화면 변경 스타일을 사용하고, 일시적인으로 환경이 변화해도 사용자가 인지할 수 있도록 도와주세요. 모달의 기본적인 스타일은 모달이 화면의 아래에서 위 수직 방향으로 슬라이드 되고, 취소되었을 때 다시 돌아가는 것입니다. 앱 전체적으로 일관된 모달 화면 변경 스타일을 사용하세요.
