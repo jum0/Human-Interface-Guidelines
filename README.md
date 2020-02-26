@@ -15,13 +15,13 @@
 
 ### App Architecture
 
-- [Launching](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App Architecture/Launching)    ✅ 🛠
+- [Launching](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Launching)    ✅ 🛠
 - Onboarding
 - Loading
-- [Modality](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App Architecture/Modality)    ✅
-- [Navigation](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App Architecture/Navigation)    ✅ 🛠
+- [Modality](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Modality)    ✅
+- [Navigation](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Navigation)    ✅ 🛠
 - Requesting Permission
-- [Settings](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App Architecture/Settings)    ✅
+- [Settings](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Settings)    ✅
 
 
 
@@ -31,7 +31,7 @@
 - Apple Pencil
 - Audio
 - Authentication
-- [Data Entry](https://github.com/jum0/Human-Interface-Guidelines/tree/master/User Interaction/Data Entry)    ✅
+- [Data Entry](https://github.com/jum0/Human-Interface-Guidelines/tree/master/User%20Interaction/Data%20Entry)    ✅
 - Drag and Drop
 - Feedback
 - File Handling
@@ -81,7 +81,7 @@
 
 ### Bars
 
-- [Navigation Bars](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Bars/Navigation Bars)    ✅ 🛠
+- [Navigation Bars](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Bars/Navigation%20Bars)    ✅ 🛠
 - Search Bars
 - Tab Bars
 - Toolbars
