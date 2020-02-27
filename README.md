@@ -62,7 +62,7 @@
 - Branding
 - Color
 - Dark Mode
-- Launch Screen
+- [Launch Screen](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Launch%20Screen)    ✅ 🛠
 - Materials
 - Terminology
 - Typography
