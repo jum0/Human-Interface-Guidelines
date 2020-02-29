@@ -110,7 +110,7 @@
 - Buttons
 - Context Menus
 - Edit Menus
-- Labels
+- [Labels](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Controls/Labels)    ✅ 🛠
 - Page Controls
 - Pickers
 - Progress Indicators
