@@ -17,7 +17,7 @@
 
 - [Launching](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Launching)    ✅ 🛠
 - Onboarding
-- Loading
+- [Loading](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Loading)    ✅ 🛠
 - [Modality](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Modality)    ✅
 - [Navigation](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Navigation)    ✅ 🛠
 - Requesting Permission
