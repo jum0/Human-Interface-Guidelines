@@ -112,7 +112,7 @@
 - Edit Menus
 - [Labels](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Controls/Labels)    ✅ 🛠
 - Page Controls
-- Pickers
+- [Pickers](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Controls/Pickers)    ✅
 - Progress Indicators
 - Refresh Content Controls
 - Sliders
