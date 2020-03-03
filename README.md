@@ -16,7 +16,7 @@
 ### App Architecture
 
 - [Launching](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Launching)    ✅ 🛠
-- Onboarding
+- [Onboarding](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Onboarding)    ✅ 🛠
 - [Loading](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Loading)    ✅ 🛠
 - [Modality](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Modality)    ✅
 - [Navigation](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Navigation)    ✅ 🛠
