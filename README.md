@@ -94,7 +94,7 @@
 - Activity Views
 - Alerts
 - Collections
-- Image Views
+- [Image Views](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Image%20Views)    ✅ 🛠
 - Pages
 - Popovers
 - Scroll Views
