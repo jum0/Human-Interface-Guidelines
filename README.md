@@ -97,7 +97,7 @@
 - [Image Views](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Image%20Views)    ✅ 🛠
 - Pages
 - Popovers
-- Scroll Views
+- [Scroll Views](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Scroll%20Views)    ✅ 🛠
 - Split Views
 - Tables
 - Text Views
