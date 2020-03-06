@@ -92,7 +92,7 @@
 
 - Action Sheets
 - Activity Views
-- Alerts
+- [Alerts](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Alerts)    ✅ 🛠
 - Collections
 - [Image Views](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Image%20Views)    ✅ 🛠
 - Pages
