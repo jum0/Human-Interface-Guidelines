@@ -83,7 +83,7 @@
 
 - [Navigation Bars](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Bars/Navigation%20Bars)    ✅ 🛠
 - Search Bars
-- Tab Bars
+- [Tab Bars](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Bars/Tab%20Bars)    ✅ 🛠
 - Toolbars
 
 
