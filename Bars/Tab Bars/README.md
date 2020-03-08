@@ -13,7 +13,7 @@ A tab bar appears at the bottom of an app screen and provides the ability to qui
 
 
 
-**Use a tab bar strictly for navigation.** Tab bar buttons should not be used to perform actions. If you need to provide controls that act on elements in the current view, use a toolbar instead. See [Toolbars](https://developer.apple.com/design/human-interface-guidelines/ios/bars/toolbars/).
+**Use a tab bar strictly for navigation.** Tab bar buttons should not be used to perform actions. If you need to provide controls that act on elements in the current view, use a toolbar instead. See [Toolbars](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Bars/Toolbars).
 
 > **Navigation에서 tab bar를 정확하게 사용하세요.** Tab bar 버튼들은 어떠한 행동을 수행하기 위해서 사용되어서는 안됩니다. 현재의 뷰의 elements에 영향을 주는 제어가 필요하다면, Tab bar 대신에 toolbar를 사용하세요. 자세한 내용은 다음 문서를 확인하세요.
 
@@ -63,7 +63,7 @@ For developer guidance, see [UITabBar](https://developer.apple.com/documentation
 
 **TIP**
 
-It’s important to understand the difference between a tab bar and a toolbar, because both types of bars appear at the bottom of an app screen. A tab bar lets the user switch quickly between different sections of an app, such as the Alarm, Stopwatch, and Timer tabs in the Clock app. A toolbar contains buttons for performing actions related to the current context, like creating an item, deleting an item, adding an annotation, or taking a photo. See [Toolbars](https://developer.apple.com/design/human-interface-guidelines/ios/bars/toolbars/). Tab bars and toolbars never appear together in the same view.
+It’s important to understand the difference between a tab bar and a toolbar, because both types of bars appear at the bottom of an app screen. A tab bar lets the user switch quickly between different sections of an app, such as the Alarm, Stopwatch, and Timer tabs in the Clock app. A toolbar contains buttons for performing actions related to the current context, like creating an item, deleting an item, adding an annotation, or taking a photo. See [Toolbars](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Bars/Toolbars). Tab bars and toolbars never appear together in the same view.
 
 > Tab bar와 toolbar는 모두 화면의 하단에 나타나기 때문에, 차이점을 이해하는 것이 중요합니다. Tab bar는 사용자가 화면의 다른 섹션을 빠르게 이동할 수 있도록 도와주는데, Clock 앱의 Alarm, Stopwatch, Timer tabs과 같은 것들이 있습니다. Toolbar는 현재 컨텍스트와 관련된 기능을 수행하는 버튼을 가지고 있는데, item을 만들거나 삭제하고 주석을 추가하거나 사진을 찍는 것들이 있습니다. 자세한 것은 문서를 확인해 주세요. Tab bars와 toolbars는 절대로 같은 view에서 나타나지 않습니다.
 
