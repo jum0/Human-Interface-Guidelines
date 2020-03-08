@@ -11,7 +11,7 @@ The guidelines below can help you design a delightful launch experience. For dev
 
 
 
-**Provide a launch screen.** The system displays your launch screen the moment your app starts and quickly replaces it with your app's first screen. The function of a launch screen is to give people the impression that your app is fast and responsive, while allowing initial content to load. To ensure a seamless transition from your launch screen, design a plain screen that resembles your first app screen and doesn't draw attention to itself. For guidance, see [Launch Screen](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/launch-screen).
+**Provide a launch screen.** The system displays your launch screen the moment your app starts and quickly replaces it with your app's first screen. The function of a launch screen is to give people the impression that your app is fast and responsive, while allowing initial content to load. To ensure a seamless transition from your launch screen, design a plain screen that resembles your first app screen and doesn't draw attention to itself. For guidance, see [Launch Screen](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Launch%20Screen).
 
 > **시작 화면을 제공하세요.** 시스템은 앱이 시작하고 빠르게 처음 화면으로 바뀌는 순간, 시작 화면을 보여줍니다. 시작 화면의 기능은 초기의 콘텐츠가 준비되는 동안에, 사용자에게 앱이 빠르고 즉각 반응한다는 인상을 주는 것입니다. 시작 화면에서의 매끄러운 화면 이동을 위해서, 앱의 첫 번째 화면과 비슷하게 단순한 화면을 설계하고, 그 화면 자체에 관심을 끌도록 하지 마세요. 자세한 가이드는 다음을 확인하세요.
 
