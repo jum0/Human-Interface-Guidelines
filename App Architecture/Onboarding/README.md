@@ -6,13 +6,13 @@ Onboarding lets you welcome new users and reconnect with returning ones. An opti
 
 <img width="372" alt="스크린샷 2020-03-03 오전 10 02 36" src="https://user-images.githubusercontent.com/40762111/75732642-66a61900-5d36-11ea-921e-ada285e216a5.png">
 
-**Provide onboarding that helps people enjoy your app, not just set it up.** People can appreciate the opportunity to learn more about your app, but they also expect it to just work. Avoid including setup or licensing details in your onboarding experience. For guidance, see [Launching](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/launching).
+**Provide onboarding that helps people enjoy your app, not just set it up.** People can appreciate the opportunity to learn more about your app, but they also expect it to just work. Avoid including setup or licensing details in your onboarding experience. For guidance, see [Launching](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Launching).
 
 > **사용자가 앱을 단순하게 설치하는 것이 아닌 즐길 수 있도록 돕는 onboarding을 제공하세요.** 사용자들은 앱에 대해 더 많은 것을 배울 수 있는 기회로 높이 평가할 수 있지만, 또한 앱이 단순하게 작동하기를 기대합니다. 설치나 라이선스에 대한 자세한 것을 onboarding 경험에 포함하는 것을 피하세요. 가이드라인은 다음 문서를 참조하세요.
 
 
 
-**Get to the action quickly.** After the system replaces your [launch screen](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/launch-screen) with your initial app screen, let people dive right in and start enjoying your app. If you need to provide tutorials or intro sequences, give people a way to skip them and don't automatically show them to returning users.
+**Get to the action quickly.** After the system replaces your [launch screen](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Launch%20Screen) with your initial app screen, let people dive right in and start enjoying your app. If you need to provide tutorials or intro sequences, give people a way to skip them and don't automatically show them to returning users.
 
 > **재빨리 행동에 옮기세요.** 시작 화면이 초기 화면으로 변경된 후, 사용자가 앱을 바로 시작해서 즐길 수 있도록 하세요. 튜토리얼이나 소개하는 순서를 제공하려고 하면, 사용자에게 생략할 수 있는 방법을 제공하고 복귀하는 사용자들에게 자동으로 보여주지 마세요.
 
