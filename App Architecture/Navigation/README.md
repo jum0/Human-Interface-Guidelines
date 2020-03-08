@@ -37,7 +37,7 @@ Some apps combine multiple navigation styles. For example, an app that uses flat
 
 
 
-**Always provide a clear path.** People should always know where they are in your app and how to get to their next destination. Regardless of navigation style, it’s essential that the path through content is logical, predictable, and easy to follow. In general, give people one path to each screen. If they need to see a screen in multiple contexts, consider using an action sheet, alert, popover, or modal view. To learn more, see [Action Sheets](https://developer.apple.com/design/human-interface-guidelines/ios/views/action-sheets/), [Alerts](https://developer.apple.com/design/human-interface-guidelines/ios/views/alerts/), [Popovers](https://developer.apple.com/design/human-interface-guidelines/ios/views/popovers/), and [Modality](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/modality/).
+**Always provide a clear path.** People should always know where they are in your app and how to get to their next destination. Regardless of navigation style, it’s essential that the path through content is logical, predictable, and easy to follow. In general, give people one path to each screen. If they need to see a screen in multiple contexts, consider using an action sheet, alert, popover, or modal view. To learn more, see [Action Sheets](https://developer.apple.com/design/human-interface-guidelines/ios/views/action-sheets/), [Alerts](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Alerts), [Popovers](https://developer.apple.com/design/human-interface-guidelines/ios/views/popovers/), and [Modality](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Modality).
 
 > **항상 명확한 이동 경로를 제공하세요.** 사용자들은 항상 자신이 앱에서 어디에 있는지, 다른 화면으로 이동하기 위해서는 어떻게 해야 하는지 알고 있어야 합니다. 내비게이션 방식에 상관없이, 콘텐츠를 통한 이동 경로는 논리적이며 예측할 수 있어야 하고 쉽게 알아차릴 수 있어야 합니다. 일반적으로, 사용자에게 각 화면에서 하나의 이동 경로를 제공하세요. 사용자가 여러 환경에서 한 화면을 보고 싶어 한다면, action sheet나, alert, popover, 또는 modal view를 고려하세요. 더 많은 정보는 여기서 얻을 수 있습니다.
 
@@ -63,13 +63,13 @@ Some apps combine multiple navigation styles. For example, an app that uses flat
 
 
 
-**Use a navigation bar to traverse a hierarchy of data.** The navigation bar’s title can show the current position in the hierarchy, and the back button makes it easy to return to the previous location. For specific guidance, see [Navigation Bars](https://developer.apple.com/design/human-interface-guidelines/ios/bars/navigation-bars/).
+**Use a navigation bar to traverse a hierarchy of data.** The navigation bar’s title can show the current position in the hierarchy, and the back button makes it easy to return to the previous location. For specific guidance, see [Navigation Bars](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Bars/Navigation%20Bars).
 
 > 계층화된 데이터를 이용하기 위해서 내비게이션 bar를 이용하세요. 내비게이션 bar의 제목은 계층적인 구조에서 현재의 위치를 보여줄 수 있고, 뒤로 가기 버튼은 이전 화면으로 돌아갈 수 있도록 도와줍니다. 자세한 내용은 여기에서 확인할 수 있습니다.
 
 
 
-**Use a tab bar to present peer categories of content or functionality.** A tab bar lets people quickly and easily switch between categories, regardless of the current location. For specific guidance, see [Tab Bars](https://developer.apple.com/design/human-interface-guidelines/ios/bars/tab-bars/).
+**Use a tab bar to present peer categories of content or functionality.** A tab bar lets people quickly and easily switch between categories, regardless of the current location. For specific guidance, see [Tab Bars](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Bars/Tab%20Bars).
 
 > **콘텐츠나 기능적으로 비슷한 카테고리를 나타내기 위해서 tab bar를 사용하세요.** 사용자들은 Tab bar를 통해서 현재의 화면 위치에 상관없이, 카테고리 간에 쉽고 빠르게 이동할 수 있습니다. 자세한 내용은 여기에서 확인할 수 있습니다.
 
