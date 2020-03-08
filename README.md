@@ -3,6 +3,17 @@
 
 🛠 - Hyperlink translation not completed
 
+### Accessibility
+
+- Introduction
+- Best Practices
+- User Interaction
+- Navigation
+- Text Size and Weight
+- Color and Contrast
+- Appearance Effects and Motion
+- Content
+
 
 
 ### iOS
@@ -15,11 +26,11 @@
 
 ### App Architecture
 
-- [Launching](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Launching)    ✅ 🛠
-- [Onboarding](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Onboarding)    ✅ 🛠
-- [Loading](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Loading)    ✅ 🛠
+- [Launching](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Launching)    ✅ (🛠 Visual Design - Adaptivity and Layout)
+- [Onboarding](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Onboarding)    ✅
+- [Loading](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Loading)    ✅ (🛠 Controls - Progress Indicators)
 - [Modality](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Modality)    ✅
-- [Navigation](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Navigation)    ✅ 🛠
+- [Navigation](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Navigation)    ✅ (🛠 Views - Action Sheets / Views - Popovers / Controls - Page Controls)
 - Requesting Permission
 - [Settings](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Settings)    ✅
 
@@ -62,7 +73,7 @@
 - Branding
 - Color
 - Dark Mode
-- [Launch Screen](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Launch%20Screen)    ✅ 🛠
+- [Launch Screen](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Launch%20Screen)    ✅ (🛠 Visual Design - Adaptivity and Layout / Visual Design - Dark Mode)
 - Materials
 - Terminology
 - Typography
@@ -81,10 +92,10 @@
 
 ### Bars
 
-- [Navigation Bars](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Bars/Navigation%20Bars)    ✅ 🛠
+- [Navigation Bars](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Bars/Navigation%20Bars)    ✅ (🛠 Controls - Segmented Controls)
 - Search Bars
-- [Tab Bars](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Bars/Tab%20Bars)    ✅ 🛠
-- Toolbars
+- [Tab Bars](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Bars/Tab%20Bars)    ✅ (🛠 Icons and Images - System Icons / Icons and Images - Custom Icons  )
+- [Toolbars](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Bars/Toolbars)    ✅
 
 
 
@@ -92,12 +103,12 @@
 
 - Action Sheets
 - Activity Views
-- [Alerts](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Alerts)    ✅ 🛠
+- [Alerts](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Alerts)    ✅ (🛠 Views - Action Sheets)
 - Collections
-- [Image Views](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Image%20Views)    ✅ 🛠
+- [Image Views](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Image%20Views)    ✅ (🛠 Icons and Images - Custom Icons)
 - Pages
 - Popovers
-- [Scroll Views](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Scroll%20Views)    ✅ 🛠
+- [Scroll Views](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Scroll%20Views)    ✅ (🛠 Controls - Page Controls)
 - Split Views
 - Tables
 - Text Views
@@ -110,11 +121,12 @@
 - Buttons
 - Context Menus
 - Edit Menus
-- [Labels](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Controls/Labels)    ✅ 🛠
+- [Labels](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Controls/Labels)    ✅ (🛠 Visual Design - Typography / Accessibility - Introduction)
 - Page Controls
 - [Pickers](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Controls/Pickers)    ✅
 - Progress Indicators
 - Refresh Content Controls
+- Segmented Controls
 - Sliders
 - Steppers
 - Switches
