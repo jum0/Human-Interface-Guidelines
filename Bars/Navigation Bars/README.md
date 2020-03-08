@@ -21,7 +21,7 @@ For developer guidance, see [UINavigationBar](https://developer.apple.com/docume
 
 **TIP**
 
-Use a toolbar when navigation isn’t needed or you want multiple controls for managing content. See [Toolbars](https://developer.apple.com/design/human-interface-guidelines/ios/bars/toolbars/).
+Use a toolbar when navigation isn’t needed or you want multiple controls for managing content. See [Toolbars](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Bars/Toolbars).
 
 > 내비게이션이 필요하지 않거나, 콘텐츠를 관리하기 위해서 다중의 컨트롤을 원한다면 툴바를 사용하세요. 툴바는 여기서 확인할 수 있습니다.
 
