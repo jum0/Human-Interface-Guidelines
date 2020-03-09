@@ -30,7 +30,7 @@
 - [Onboarding](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Onboarding)    ✅
 - [Loading](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Loading)    ✅ (🛠 Controls - Progress Indicators)
 - [Modality](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Modality)    ✅
-- [Navigation](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Navigation)    ✅ (🛠 Views - Action Sheets / Views - Popovers / Controls - Page Controls)
+- [Navigation](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Navigation)    ✅ (🛠 Views - Popovers / Controls - Page Controls)
 - Requesting Permission
 - [Settings](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Settings)    ✅
 
@@ -101,9 +101,9 @@
 
 ### Views
 
-- Action Sheets
+- [Action Sheets](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Action%20Sheets)    ✅ 
 - Activity Views
-- [Alerts](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Alerts)    ✅ (🛠 Views - Action Sheets)
+- [Alerts](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Alerts)    ✅
 - Collections
 - [Image Views](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Image%20Views)    ✅ (🛠 Icons and Images - Custom Icons)
 - Pages
