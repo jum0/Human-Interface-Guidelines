@@ -52,7 +52,7 @@ For developer guidance, see [UIAlertController](https://developer.apple.com/docu
 
 ### Alert Buttons
 
-**Generally, use two-button alerts.** Two-button alerts provide an easy choice between two alternatives. Single-button alerts inform, but give no control over the situation. Alerts with three or more buttons create complexity and can require scrolling, which is a bad user experience. If you find that you need more than two choices, consider using an action sheet instead. See [Action Sheets](https://developer.apple.com/design/human-interface-guidelines/ios/views/action-sheets/).
+**Generally, use two-button alerts.** Two-button alerts provide an easy choice between two alternatives. Single-button alerts inform, but give no control over the situation. Alerts with three or more buttons create complexity and can require scrolling, which is a bad user experience. If you find that you need more than two choices, consider using an action sheet instead. See [Action Sheets](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Action%20Sheets).
 
 > **일반적으로, 두 개의 버튼을 가진 alerts를 사용하세요.** 두 개의 버튼을 가진 alerts는 쉽게 선택할 수 있는 두 가지 선택지를 제공합니다. 하나의 버튼을 가진 alerts는 정보를 주지만, 상황을 제어할 수는 없습니다. 세 개 이상의 버튼을 가진 alerts는 복잡하고 scrolling을 필요로 할 수 있는데, 이는 사용자에게 부정적인 경험을 줍니다. 두 개보다 많은 선택지가 필요하다면, 대신에 action sheet 사용하는 것을 고려하세요. Action Sheets에 관한 내용은 다음 문서를 확인하세요.
 
