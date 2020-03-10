@@ -18,7 +18,7 @@
 
 ### iOS
 
-- Themes
+- [Themes](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Themes)    ✅
 - Mac Catalyst
 - Interface Essentials
 
