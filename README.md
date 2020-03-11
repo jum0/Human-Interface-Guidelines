@@ -70,7 +70,7 @@
 
 - Adaptivity and Layout
 - Animation
-- Branding
+- [Branding](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Branding)    ✅
 - Color
 - Dark Mode
 - [Launch Screen](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Launch%20Screen)    ✅ (🛠 Visual Design - Adaptivity and Layout / Visual Design - Dark Mode)
