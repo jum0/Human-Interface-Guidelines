@@ -107,7 +107,7 @@
 - Collections
 - [Image Views](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Image%20Views)    ✅ (🛠 Icons and Images - Custom Icons)
 - Pages
-- Popovers
+- [Popovers](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Popovers)    ✅
 - [Scroll Views](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Scroll%20Views)    ✅ (🛠 Controls - Page Controls)
 - Split Views
 - Tables
