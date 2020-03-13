@@ -110,7 +110,7 @@
 - [Popovers](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Popovers)    ✅
 - [Scroll Views](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Scroll%20Views)    ✅ (🛠 Controls - Page Controls)
 - Split Views
-- Tables
+- [Tables](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Tables)    ✅ (🛠 Views - Split Views / Controls - Refresh Content Controls)
 - Text Views
 - Web Views
 
