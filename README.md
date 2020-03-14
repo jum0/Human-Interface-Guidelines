@@ -140,6 +140,6 @@
 - File Providers
 - Home Screen Actions
 - Messaging
-- Photo Editing
+- [Photo Editing](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Photo%20Editing)    ✅ 
 - Sharing and Actions
 - Widgets
