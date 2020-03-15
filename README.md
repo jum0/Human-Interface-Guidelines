@@ -18,7 +18,7 @@
 
 ### iOS
 
-- [Themes](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Themes)    ✅
+- [Themes](https://github.com/jum0/Human-Interface-Guidelines/tree/master/iOS/Themes)    ✅
 - Mac Catalyst
 - Interface Essentials
 
@@ -69,7 +69,7 @@
 ### Visual Design
 
 - Adaptivity and Layout
-- Animation
+- [Animation](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Animation)    ✅ (🛠 Accessibility - Appearance Effects and Motion)
 - [Branding](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Branding)    ✅
 - Color
 - Dark Mode
@@ -110,7 +110,7 @@
 - [Popovers](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Popovers)    ✅
 - [Scroll Views](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Scroll%20Views)    ✅ (🛠 Controls - Page Controls)
 - Split Views
-- [Tables](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Tables)    ✅ (🛠 Views - Split Views / Controls - Refresh Content Controls)
+- [Tables](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Tables)    ✅ (🛠 Views - Split Views / Controls - Refresh Content Controls)
 - Text Views
 - Web Views
 
