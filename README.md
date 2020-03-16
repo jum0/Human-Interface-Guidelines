@@ -77,7 +77,7 @@
 - Materials
 - Terminology
 - Typography
-- Video
+- [Video](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Video)    ✅ (🛠 System Capabilities - Multitasking)
 
 
 
