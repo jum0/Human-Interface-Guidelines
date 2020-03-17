@@ -83,7 +83,7 @@
 
 ### Icons and Images
 
-- Image Size and Resolution
+- [Image Size and Resolution](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Icons%20and%20Images/Image%20Size%20and%20Resolution)    ✅
 - App Icon
 - Custom Icons
 - System Icons
@@ -140,6 +140,6 @@
 - File Providers
 - Home Screen Actions
 - Messaging
-- [Photo Editing](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Photo%20Editing)    ✅ 
+- [Photo Editing](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Extensions/Photo%20Editing)    ✅ 
 - Sharing and Actions
 - Widgets
