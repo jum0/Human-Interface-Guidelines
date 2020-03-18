@@ -125,7 +125,7 @@
 - Page Controls
 - [Pickers](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Controls/Pickers)    ✅
 - Progress Indicators
-- Refresh Content Controls
+- [Refresh Content Controls](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Controls/Refresh%20Content%20Controls)    ✅
 - Segmented Controls
 - Sliders
 - Steppers
