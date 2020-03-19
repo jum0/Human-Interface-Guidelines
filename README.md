@@ -61,7 +61,7 @@
 - Printing
 - Quick Look
 - Ratings and Reviews
-- Screenshots
+- [Screenshots](https://github.com/jum0/Human-Interface-Guidelines/tree/master/System%20Capabilities/Screenshots)    ✅
 - TV Providers
 
 
