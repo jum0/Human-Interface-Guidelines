@@ -20,7 +20,7 @@
 
 - [Themes](https://github.com/jum0/Human-Interface-Guidelines/tree/master/iOS/Themes)    ✅
 - Mac Catalyst
-- Interface Essentials
+- [Interface Essentials](https://github.com/jum0/Human-Interface-Guidelines/tree/master/iOS/Interface%20Essentials)    ✅
 
 
 
