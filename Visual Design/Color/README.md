@@ -189,12 +189,24 @@ For foreground content, iOS defines the following colors:
 
 **Use wide color to enhance the visual experience on compatible displays.** Wide color displays support a P3 color space, which can produce richer, more saturated colors than sRGB. As a result, photos and videos that use wide color are more lifelike, and visual data and status indicators that use wide color are more impactful. When appropriate, use the Display P3 color profile at 16 bits per pixel (per channel) and export images in PNG format. Note that a wide color display is needed to design wide color images and select P3 colors.
 
-> **호환이 되는 화면에서 시각적인 경험을 향상시키기 위해 넓은 색상을 사용하세요.** 넓은 색상을 보여주는 것은 sRGB보다 더 풍부하게 만들며, 더 강렬하게 만드는 P3 색상 공간을 지원합니다. 그 결과, 넓은 색상을 사용하는 사진들과 영상들은 우리의 삶과 더욱 비슷하며, 넓은 색상을 사용하는 시각적인 데이터와 status indicators는 더 인상이 강합니다. 
+> **호환이 되는 화면에서 시각적인 경험을 향상시키기 위해 넓은 색상을 사용하세요.** 넓은 색상을 보여주는 것은 sRGB보다 더 풍부하게 만들며, 더 강렬하게 만드는 P3 색상 공간을 지원합니다. 그 결과, 넓은 색상을 사용하는 사진들과 영상들은 우리의 삶과 더욱 비슷하며, 넓은 색상을 사용하는 시각적인 데이터와 status indicators는 더 인상이 강합니다. 적절한 경우, 픽셀 당 16비트에 Display P3 색상 프로필을 사용하고 PNG 형식으로 이미지를 추출하세요. 넓은 색상 이미지를 디자인하고 P3 색상들을 선택하려면 넓은 색상 display가 필요하다는 점을 유의하세요.
 
 ![Diagram showing the colors included in the sRGB space, compared to the larger number of colors included in the P3 color space.](https://developer.apple.com/design/human-interface-guidelines/ios/images/colorGraphic_wideColor.svg)
 
 **Provide color space-specific image and color variations when the experience calls for it.** In general, P3 colors and images tend to appear as expected on sRGB devices. Occasionally, however, it may be hard to differentiate between two very similar P3 colors when they're viewed in sRGB. Gradients that use colors in the P3 spectrum can also sometimes appear clipped on sRGB devices. To avoid these issues, you can provide distinct images and colors in the asset catalog of your Xcode project to ensure visual fidelity on both wide color and sRGB devices.
 
+> **경험이 필요할 때, 색상 공간이 분명한 이미지와 색상 변화를 제공하세요.** 일반적으로, P3 색상들과 이미지는 sRGV 기기에서 예상대로 보이는 경향이 있습니다. 하지만, 때때로 두 가지의 매우 유사한 P3 색상들이 sRGV에서 보일 때는 구별하기 어려울 수 있습니다. 또한 P3 스펙트럼에서 색상을 사용하는 gradients는 sRGB 기기에서 잘린 것처럼 보일 수도 있습니다. 이러한 이슈들을 방지하기 위해, Xcode의 asset catalog에 뚜렷한 이미지와 색상을 제공하여 넓은 색상과 sRGB 기기 모두 시각적으로 만족시킬 수 있습니다.
+
+
+
 **Preview your app’s colors on actual sRGB and wide color displays.** Make adjustments as needed to ensure an equally great visual experience on both types of displays.
 
-**TIP**On a Mac with a wide color display, you can use the system color picker to select and preview P3 colors, and compare them with sRGB colors.
+> **실제 sRGV와 넓은 색상 displays에서 앱의 색상을 미리 확인해보세요.** 두 가지 유형의 디스플레이에서 동일하게 멋진 시각적인 경험을 주기 위해 필요에 따라서 조정하세요.
+
+
+
+**TIP**
+
+On a Mac with a wide color display, you can use the system color picker to select and preview P3 colors, and compare them with sRGB colors.
+
+> 넓은 색상 디스플레이를 지닌 Mac에서, P3 색상을 미리 확인하고 선택하기 위해서 system color picker를 사용할 수 있으며, sRGB 색상들과 비교해볼 수 있습니다.
