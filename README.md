@@ -10,7 +10,7 @@
 - User Interaction
 - Navigation
 - Text Size and Weight
-- Color and Contrast
+- [Color and Contrast](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Accessibility/Color%20and%20Contrast)    ✅ (🛠 Accessibility - Text Size and Weight)
 - Appearance Effects and Motion
 - Content
 
@@ -71,7 +71,7 @@
 - Adaptivity and Layout
 - [Animation](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Animation)    ✅ (🛠 Accessibility - Appearance Effects and Motion)
 - [Branding](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Branding)    ✅
-- [Color](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Color)    ✅ (🛠 Accessibility - Color and Contrast)
+- [Color](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Color)    ✅
 - Dark Mode
 - [Launch Screen](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Launch%20Screen)    ✅ (🛠 Visual Design - Adaptivity and Layout / Visual Design - Dark Mode)
 - Materials
