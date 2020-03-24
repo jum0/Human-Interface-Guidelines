@@ -65,7 +65,7 @@ Color is a great way to impart vitality, provide visual continuity, communicate 
 
 
 
-**Avoid using colors that make it hard for people to perceive content in your app.** For example, colorblind people might not be able to distinguish some color combinations, and insufficient contrast can cause icons and text to blend with the background and make content hard to read. For guidance, see [Color and Contrast](https://developer.apple.com/design/human-interface-guidelines/accessibility/overview/color-and-contrast/).
+**Avoid using colors that make it hard for people to perceive content in your app.** For example, colorblind people might not be able to distinguish some color combinations, and insufficient contrast can cause icons and text to blend with the background and make content hard to read. For guidance, see [Color and Contrast](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Accessibility/Color%20and%20Contrast).
 
 > **앱에서 사용자가 콘텐츠를 알아보기 어렵게 만드는 색의 사용은 피하세요.** 예를 들어, 색맹의 사용자는 몇 가지 색들의 조합을 구별할 수 없고, 색의 대비가 충분하지 않으면 아이콘과 텍스트가 배경에 혼합되어 콘텐츠를 읽기 어렵게 만들 수 있습니다. 자세한 내용은 다음 문서를 참조하세요.
 
