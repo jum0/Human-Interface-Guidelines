@@ -12,7 +12,7 @@
 - Text Size and Weight
 - [Color and Contrast](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Accessibility/Color%20and%20Contrast)    ✅ (🛠 Accessibility - Text Size and Weight)
 - Appearance Effects and Motion
-- Content
+- [Content](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Accessibility/Content)    ✅
 
 
 
