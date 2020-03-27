@@ -76,7 +76,7 @@
 - [Launch Screen](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Launch%20Screen)    ✅ (🛠 Visual Design - Adaptivity and Layout / Visual Design - Dark Mode)
 - Materials
 - Terminology
-- Typography
+- [Typography](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Typography) ✅ (🛠 Accessibility - Text Size and Weight)
 - [Video](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Video)    ✅ (🛠 System Capabilities - Multitasking)
 
 
