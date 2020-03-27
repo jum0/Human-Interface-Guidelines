@@ -117,13 +117,15 @@ SF Mono is a monospaced variant of San Francisco — that is, a typeface in whic
 
 > SF Mono는 San Francisco의 고정된 너비의 변형으로, 모든 문자의 폭이 동일한 서체입니다. 대표적으로 코딩 환경과 같이 텍스트의 column을 정렬하고자 할 때, monospaced 서체를 이용합니다. 예를 들어, Xcode와 Swift Playgroudns는 기본적으로 SF Mono를 사용합니다.
 
+<img width="402" alt="스크린샷 2020-03-27 오후 3 50 19" src="https://user-images.githubusercontent.com/40762111/77729743-cac0b200-7042-11ea-819d-6d64098edecb.png"><img width="342" alt="스크린샷 2020-03-27 오후 3 50 35" src="https://user-images.githubusercontent.com/40762111/77729748-ce543900-7042-11ea-9f18-1419177a068f.png">
+
 
 
 **NOTE**
 
 SF Pro uses the OpenType tabular lining feature to support the display of monospaced numbers and currencies.
 
-> SF Pro는 고정된 너비의 숫자와 통화의
+> SF Pro는 고정된 너비의 숫자와 통화의 표시를 지원하기 위해서 OpenType의 tabular lining 특징을 사용합니다.
 
 
 
@@ -131,19 +133,19 @@ SF Mono supports:
 
 - Over one hundred languages using Latin, Greek, and Cyrillic scripts
 
-  > dfdf
+  > 라틴어, 그리스어, 키릴 문자의 스크립트를 사용한 100개 이상의 언어 지원
 
 - Six weights — from Light to Heavy — in both uprights and italics
 
-  > Dfdfd
+  > 수직인 글씨와 이태릭체 모두 Light부터 Heavy까지 여섯 가지의 폰트 굵기 지원
 
 - Monospacing across all weights (that is, changing the font weight doesn't cause the text to reflow)
 
-  > Dffd
+  > 모든 굵기에 고정된 공간 지원 (즉, 폰트의 두께를 변경해도 텍스트가 화면에서 차지하는 공간을 조정하지 않습니다.  )
 
 For developer guidance, see the [monospaced property](https://developer.apple.com/documentation/uikit/uifontdescriptor/systemdesign/3152921-monospaced) of the [SystemDesign structure](https://developer.apple.com/documentation/uikit/uifontdescriptor/systemdesign).
 
-> Dfdf
+> 개발자 가이드는 다음 문서를 확인하세요.
 
 
 
@@ -151,7 +153,7 @@ For developer guidance, see the [monospaced property](https://developer.apple.co
 
 New York is a classical serif typeface you can use in the interface or to provide a traditional reading experience.
 
-> Dfdf
+> New York은 고전적인 세리프 서체로 인터페이스 또는 고전적인 읽는 경험을 제공하기 위해서 사용할 수 있습니다.
 
 
 
@@ -159,23 +161,23 @@ NY supports:
 
 - Over one hundred languages using Latin, Greek, and Cyrillic scripts
 
-  > Dfdf
+  > 라틴어, 그리스어, 키릴 문자의 스크립트를 사용한 100개 이상의 언어 지원
 
 - Six weights — from Regular to Black — in both uprights and italics
 
-  > Dfdf
+  > 수직인 글씨와 이태릭체 모두 Light부터 Heavy까지 여섯 가지의 폰트 굵기 지원
 
 - Four optical sizes — Small, Medium, Large, and Extra Large
 
-  > dfdf
+  > 네 가지의 최적화 사이즈 - Small, Medium, Large 및 Extra Large
 
 - Variable letter spacing that automatically adjusts based on the size of the text
 
-  > Did
+  > 텍스트의 크기에 따라 자동으로 조정되는 가변 문자 간격 지원
 
 For developer guidance, see the [serif property](https://developer.apple.com/documentation/uikit/uifontdescriptor/systemdesign/3152922-serif) of the [SystemDesign structure](https://developer.apple.com/documentation/uikit/uifontdescriptor/systemdesign).
 
-> Off
+> 개발자 가이드는 다음 문서를 참조하세요.
 
 
 
@@ -183,57 +185,57 @@ For developer guidance, see the [serif property](https://developer.apple.com/doc
 
 **Use built-in text styles whenever possible.** The built-in text styles let you express content in ways that are visually distinct, while retaining optimal legibility. These styles—including headline, body, callout, and several sizes of title—are based on the system fonts and let you take advantage of key typographic features, such as Dynamic Type, which automatically adjusts tracking and leading for every font size. For developer guidance, see [UIFontTextStyle](https://developer.apple.com/documentation/uikit/uifonttextstyle).
 
-> dfdf
+> **가능하다면 시스템에서 제공하는 텍스트 스타일을 사용하세요.** 제공하는 텍스트 스타일은 최적화된 가독성을 제공하면서 시각적으로 독특한 방식으로 콘텐츠를 표현할 수 있도록 도와줍니다. 헤드라인, 본문, callout 및 몇몇 제목의 크기를 포함한 이러한 스타일은 시스템 폰트에 기반하여 자동으로 모든 폰트의 tracking과 leading을 조절하는 Dynamic Type과 같은 타이포그래픽의 중요한 특징의 이용할 수 있도록 도와줍니다. 개발자 가이드는 다음 문서를 참조하세요.
 
 
 
 **Emphasize important information.** Use font weight, size, and color to highlight the most important information in your app.
 
-> dfdf
+> **중요한 정보를 강조하세요.** 앱에서 중요한 정보를 강조하기 위해서 폰트의 두께와 크기 및 색을 사용하세요.
 
 
 
 **Prioritize content when responding to text-size changes.** Not all content is equally important. When someone chooses a larger size, they want to make the content they care about easier to read; they don’t always want every word on the screen to be larger.
 
-> dfdfd
+> **텍스트 크기의 변경에 대응하여 콘텐츠를 우선적으로 처리하세요.** 모든 콘텐츠의 중요도가 동일하지는 않습니다. 누군가 더 큰 사이즈로 선택할 때, 그들은 그들이 관심을 가지는 콘텐츠를 읽기 쉽게 만들고 싶어합니다; 화면 속의 모든 글자가 항상 더 커지는 것을 원하지는 않습니다. 
 
 
 
 **Use the correct font variant in interface mockups.** When you use San Francisco for text in standard controls like buttons and labels, iOS automatically applies the most appropriate variant based on the point size and the current accessibility settings. In interface mockups, use the following text sizes to choose the correct size and adjust the spacing between letters as needed.
 
-> dfdf
+> **인터페이스 모형에서 올바른 폰트 변형을 사용하세요.** Buttons이나 labels과 같은 기본적인 controls에서 텍스트에 San Francisco를 사용할 때, iOS는 자동으로 포인트 사이즈와 현재 접근성 환경에 따라 가장 적절한 변형을 적용합니다. 인터페이스 모형에서, 올바른 사이즈를 선택하고 글자들 사이에 필요한만큼 공간을 조절하기 위해서 다음 텍스크 사이즈를 사용하세요.
 
 - For SF, use Text for text that's smaller than 20 points; use Display for text that's 20 points or larger.
 
-  > dfdf
+  > SF의 경우, 20포인트 미만의 작은 텍스트에 Text를 사용하고, 20포인트 이상의 텍스트에 Display를 사용하세요.
 
 - For NY, use Small for text that's smaller than 20 points, Medium for text between 20 and 35 points, large for text between 36 and 53 points, and Extra Large for text that's 54 points or larger.
 
-  > dfdfd
+  > NY의 경우, 20포인트 미만의 텍스트에 Small을 사용하고, 20에서 35포인트에는 Medium, 36부터 53포인트까지는 large, 54포인트 이상의 텍스트에는 Extra Large를 사용하세요.
 
 **NOTE**
 
 iOS uses San Francisco as the system font for Latin, Greek and Cyrillic alphabets, and a variety of other typefaces for other scripts.
 
-> dfd
+> iOS는 라틴어, 그리스어, 키릴 알파벳 및 다양한 다른 스크립의 서체의 시스템 폰트로 San Francisco를 사용합니다.
 
 
 
 **Minimize the number of typefaces you use in your interface.** Mixing too many different typefaces can make your app seem fragmented and sloppy.
 
-> dfdf
+> **인터페이스에서 사용하는 폰트의 수를 줄이세요.** 너무 많은 폰트를 섞어서 사용하는 것은 앱이 분열되고 대충한 제작한 듯한 느낌을 줄 수 있습니다.
 
 
 
 **Make sure custom fonts are legible.** Custom typefaces are supported on iOS, but may be tough to read, especially if they have stylistic attributes that make letterforms hard to discern when displayed at small sizes. Unless your app has a compelling need for a custom font — such as for branding purposes or to create an immersive gaming experience — it’s usually best to stick with the system fonts. Consider using a custom font for display text only; if you do use it for reading or interface text, make sure it’s legible, even at small sizes.
 
-> dfdf
+> **사용자 제작 폰트는 읽기 쉬워야 합니다.** 사용자 제작 글씨체는 iOS에서 지원되지만, 특히 작은 크기로 보여질 때 스타일 속성으로 알아보기 어렵다면, 읽기 힘들 수도 있습니다. 브랜딩의 목적이나 전체적인 게임 경험을 선사하기 위한 것과 같은 사용자 제작 폰트가 필요하지 않다면, 일반적으로 시스템 폰트를 고수하는 것이 가장 좋습니다. 사용자 제작 폰트는 텍스트를 보여주기 위해서만 사용하는 것을 고려하세요. 무언가를 읽거나 인터페이스 텍스트로 사용한다면, 작은 글씨로 읽을 수 있도록 하는 것을 명심하세요.
 
 
 
 **Implement accessibility features for custom fonts.** System fonts automatically react to accessibility features like bold text and larger type. Implement the same behavior in apps that use custom fonts by making sure accessibility features are enabled and registering for notifications when they change. See [Text Size and Weight](https://developer.apple.com/design/human-interface-guidelines/accessibility/overview/text-size-and-weight/).
 
-> dfdf
+> **커스텀 폰트의 접근성을 위한 기능을 구현하세요.** 시스템 폰트는 자동으로 bold text 및 더 큰 폰트와 같이 접근성 기능에 반응합니다. 접근성 기능이 활성화되어 있는지 확인하고 사용자가 변경할 때 알림 등록을 통해, 커스텀 폰트를 사용하는 앱에 동일한 기능을 구현하세요. 다음 문서를 확인해보세요.
 
 
 
@@ -241,7 +243,7 @@ iOS uses San Francisco as the system font for Latin, Greek and Cyrillic alphabet
 
 Dynamic Type provides additional flexibility by letting readers choose their preferred text size. Here are the weight, size, and leading values for each text style at different Dynamic Type sizes.
 
-> Dfdf
+> Dynamic Type은 독자들이 그들의 선호하는 텍스트의 크기를 선택하게 함으로써 추가적인 유연성을 제공합니다. 다양한 Dynamic Type 크기에서 각각의 텍스트 스타일에 따른 두께, 크기 및 leading 값들을 확인할 수 있습니다.
 
 #### 
 
@@ -266,15 +268,11 @@ Point size based on image resolution of 144ppi for @2x and 216ppi for @3x design
 
 
 
-
-
-
-
 ### Larger Accessibility Type Sizes
 
 In addition to the standard dynamic type sizes, the system offers a number of even larger sizes for users with accessibility needs. Here are the weight, size, and leading values for each text style at the larger accessibility type sizes.
 
-> Did
+> 기본 dynamic type 크기뿐만 아니라, 시스템은 접근성을 필요로하는 사용자들을 위해서 더 큰 사이즈의 수도 제공합니다. Larger 접근성 type 크기에서 각각의 스타일에 따른 두께, 크기 및 leading 값들을 확인할 수 있습니다.
 
 
 
