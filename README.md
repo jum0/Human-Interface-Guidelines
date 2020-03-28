@@ -9,8 +9,8 @@
 - Best Practices
 - User Interaction
 - Navigation
-- Text Size and Weight
-- [Color and Contrast](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Accessibility/Color%20and%20Contrast)    ✅ (🛠 Accessibility - Text Size and Weight)
+- [Text Size and Weight](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Accessibility/Text%20Size%20and%20Weight)    ✅
+- [Color and Contrast](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Accessibility/Color%20and%20Contrast)    ✅
 - Appearance Effects and Motion
 - [Content](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Accessibility/Content)    ✅
 
