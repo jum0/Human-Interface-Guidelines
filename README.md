@@ -102,7 +102,7 @@
 ### Views
 
 - [Action Sheets](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Action%20Sheets)    ✅ 
-- Activity Views
+- [Activity Views](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Activity%20Views)    ✅ (🛠 Extensions - Sharing and Actions) 
 - [Alerts](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Alerts)    ✅
 - Collections
 - [Image Views](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Image%20Views)    ✅ (🛠 Icons and Images - Custom Icons)
