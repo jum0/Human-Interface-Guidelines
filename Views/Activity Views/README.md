@@ -6,7 +6,7 @@ An activity is a task, such as Copy, Favorite, or Find, that’s useful in the c
 
 <img width="274" alt="스크린샷 2020-03-29 오후 6 46 08" src="https://user-images.githubusercontent.com/40762111/77845960-b53bbb80-71ed-11ea-8f27-d5db40556820.png">
 
-The system provides a number of built-in activities, including Print, Message, and AirPlay. These tasks always appear first in activity views and can’t be reordered. You don’t need to create custom activities that perform these built-in tasks. Activity views also display share and action extensions from other apps. See [Sharing and Actions](https://developer.apple.com/design/human-interface-guidelines/ios/extensions/sharing-and-actions).
+The system provides a number of built-in activities, including Print, Message, and AirPlay. These tasks always appear first in activity views and can’t be reordered. You don’t need to create custom activities that perform these built-in tasks. Activity views also display share and action extensions from other apps. See [Sharing and Actions](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Extensions/Sharing%20and%20Actions).
 
 > 시스템은 Print, Message, AirPlay를 포함해서 많은 내장된 activities를 제공합니다. 이러한 작업들은 항상 activity view에서 먼저 나타나고, 다시 제공될 수 없습니다. 이러한 내장된 작업들을 수행하는 커스텀 activities를 만들 필요는 없습니다. Activity views는 또한 다른 앱으로부터의 공유와 추가 동작을 보여줍니다. 다음 문서를 참조하세요.
 
