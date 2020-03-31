@@ -26,11 +26,11 @@
 
 ### App Architecture
 
-- [Launching](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Launching)    ✅ (🛠 Visual Design - Adaptivity and Layout)
+- [Launching](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Launching)    ✅ (🛠 Visual Design - Adaptivity and Layout) 
 - [Onboarding](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Onboarding)    ✅
 - [Loading](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Loading)    ✅ (🛠 Controls - Progress Indicators)
 - [Modality](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Modality)    ✅
-- [Navigation](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Navigation)    ✅ (🛠 Views - Popovers / Controls - Page Controls)
+- [Navigation](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Navigation)    ✅ (🛠 Views - Popovers ✔︎/ Controls - Page Controls)
 - Requesting Permission
 - [Settings](https://github.com/jum0/Human-Interface-Guidelines/tree/master/App%20Architecture/Settings)    ✅
 
@@ -76,7 +76,7 @@
 - [Launch Screen](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Launch%20Screen)    ✅ (🛠 Visual Design - Adaptivity and Layout / Visual Design - Dark Mode)
 - Materials
 - Terminology
-- [Typography](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Typography) ✅ (🛠 Accessibility - Text Size and Weight)
+- [Typography](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Typography) ✅ (🛠 Accessibility - Text Size and Weight ✔︎)
 - [Video](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Video)    ✅ (🛠 System Capabilities - Multitasking)
 
 
@@ -94,7 +94,7 @@
 
 - [Navigation Bars](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Bars/Navigation%20Bars)    ✅ (🛠 Controls - Segmented Controls)
 - Search Bars
-- [Tab Bars](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Bars/Tab%20Bars)    ✅ (🛠 Icons and Images - System Icons / Icons and Images - Custom Icons  )
+- [Tab Bars](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Bars/Tab%20Bars)    ✅ (🛠 Icons and Images - System Icons / Icons and Images - Custom Icons)
 - [Toolbars](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Bars/Toolbars)    ✅
 
 
@@ -102,7 +102,7 @@
 ### Views
 
 - [Action Sheets](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Action%20Sheets)    ✅ 
-- [Activity Views](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Activity%20Views)    ✅ (🛠 Extensions - Sharing and Actions) 
+- [Activity Views](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Activity%20Views)    ✅
 - [Alerts](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Alerts)    ✅
 - [Collections](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Collections)    ✅
 - [Image Views](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Image%20Views)    ✅ (🛠 Icons and Images - Custom Icons)
@@ -110,7 +110,7 @@
 - [Popovers](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Popovers)    ✅
 - [Scroll Views](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Scroll%20Views)    ✅ (🛠 Controls - Page Controls)
 - Split Views
-- [Tables](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Tables)    ✅ (🛠 Views - Split Views / Controls - Refresh Content Controls)
+- [Tables](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Tables)    ✅ (🛠 Views - Split Views / Controls - Refresh Content Controls ✔︎)
 - Text Views
 - Web Views
 
@@ -121,7 +121,7 @@
 - Buttons
 - Context Menus
 - Edit Menus
-- [Labels](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Controls/Labels)    ✅ (🛠 Visual Design - Typography / Accessibility - Introduction)
+- [Labels](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Controls/Labels)    ✅ (🛠 Visual Design - Typography ✔︎/ Accessibility - Introduction)
 - Page Controls
 - [Pickers](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Controls/Pickers)    ✅
 - Progress Indicators
@@ -141,5 +141,5 @@
 - Home Screen Actions
 - Messaging
 - [Photo Editing](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Extensions/Photo%20Editing)    ✅ 
-- Sharing and Actions
+- [Sharing and Actions](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Extensions/Sharing%20and%20Actions)    ✅
 - Widgets
