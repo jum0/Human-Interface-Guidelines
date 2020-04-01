@@ -59,7 +59,7 @@
 - Multiple Windows
 - Notifications
 - Printing
-- Quick Look
+- [Quick Look](https://github.com/jum0/Human-Interface-Guidelines/tree/master/System%20Capabilities/Quick%20Look)    ✅
 - Ratings and Reviews
 - [Screenshots](https://github.com/jum0/Human-Interface-Guidelines/tree/master/System%20Capabilities/Screenshots)    ✅
 - TV Providers
