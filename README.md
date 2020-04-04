@@ -3,16 +3,17 @@
 
 🛠 - Hyperlink translation not completed
 
-### Accessibility
+### Technologies (🛠 Need for overall modification)
 
-- Introduction
-- Best Practices
-- User Interaction
-- Navigation
-- [Text Size and Weight](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Accessibility/Text%20Size%20and%20Weight)    ✅
-- [Color and Contrast](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Accessibility/Color%20and%20Contrast)    ✅
-- Appearance Effects and Motion
-- [Content](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Accessibility/Content)    ✅
+- ##### Accessibility
+  - Introduction
+  - Best Practices
+  - User Interaction
+  - Navigation
+  - [Text Size and Weight](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Technologies/Accessibility/Text%20Size%20and%20Weight)    ✅
+  - [Color and Contrast](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Technologies/Accessibility/Color%20and%20Contrast)    ✅
+  - Appearance Effects and Motion
+  - [Content](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Technologies/Accessibility/Content)    ✅
 
 
 
@@ -38,7 +39,7 @@
 
 ### User Interaction
 
-- 3D Touch
+- [3D Touch](https://github.com/jum0/Human-Interface-Guidelines/tree/master/User%20Interaction/3D%20Touch)    ✅ (🛠 Controls - Context Menus / Extensions - Home Screen Actions / Extensions - Widgets / 
 - Apple Pencil
 - Audio
 - Authentication
