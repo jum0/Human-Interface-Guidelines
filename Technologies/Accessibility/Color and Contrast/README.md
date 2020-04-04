@@ -45,6 +45,6 @@
 | 18 pt and larger | Any         | 3:1                    |
 | Any              | Bold        | 3:1                    |
 
-To learn more making text in your app accessible to all users, see [Text Size and Weight](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Accessibility/Text%20Size%20and%20Weight).
+To learn more making text in your app accessible to all users, see [Text Size and Weight](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Technologies/Accessibility/Text%20Size%20and%20Weight).
 
 > 앱의 텍스트에 모든 사용자가 접근할 수 있도록 만드는 방법은 다음 문서를 참조하세요.
