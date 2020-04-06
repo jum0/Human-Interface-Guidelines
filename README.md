@@ -1,11 +1,14 @@
 # Human Interface Guidelines
 ✅ - Translation completed in Korean
 
-🛠 - Hyperlink translation not completed
+🛠 - Hyperlink connection not completed
+
+✔︎ - Translated document not connected hyperlink 
 
 ### Technologies (🛠 Need for overall modification)
 
 - ##### Accessibility
+
   - Introduction
   - Best Practices
   - User Interaction
@@ -39,7 +42,7 @@
 
 ### User Interaction
 
-- [3D Touch](https://github.com/jum0/Human-Interface-Guidelines/tree/master/User%20Interaction/3D%20Touch)    ✅ (🛠 Controls - Context Menus / Extensions - Home Screen Actions / Extensions - Widgets / 
+- [3D Touch](https://github.com/jum0/Human-Interface-Guidelines/tree/master/User%20Interaction/3D%20Touch)    ✅ (🛠 Controls - Context Menus / Extensions - Home Screen Actions / Extensions - Widgets / Technologies - Live Photos)
 - Apple Pencil
 - Audio
 - Authentication
@@ -73,8 +76,8 @@
 - [Animation](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Animation)    ✅ (🛠 Accessibility - Appearance Effects and Motion)
 - [Branding](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Branding)    ✅
 - [Color](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Color)    ✅
-- Dark Mode
-- [Launch Screen](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Launch%20Screen)    ✅ (🛠 Visual Design - Adaptivity and Layout / Visual Design - Dark Mode)
+- [Dark Mode](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Dark%20Mode)    ✅ (🛠 Visual Design - Materials)
+- [Launch Screen](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Launch%20Screen)    ✅ (🛠 Visual Design - Adaptivity and Layout / Visual Design - Dark Mode✔︎)
 - Materials
 - Terminology
 - [Typography](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Visual%20Design/Typography) ✅ (🛠 Accessibility - Text Size and Weight ✔︎)
@@ -111,7 +114,7 @@
 - [Popovers](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Popovers)    ✅
 - [Scroll Views](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Scroll%20Views)    ✅ (🛠 Controls - Page Controls)
 - Split Views
-- [Tables](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Tables)    ✅ (🛠 Views - Split Views / Controls - Refresh Content Controls ✔︎)
+- [Tables](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Views/Tables)    ✅ (🛠 Views - Split Views / Controls - Refresh Content Controls✔︎)
 - Text Views
 - Web Views
 
