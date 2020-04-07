@@ -122,7 +122,7 @@
 
 ### Controls
 
-- Buttons
+- [Buttons](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Controls/Buttons)    ✅
 - Context Menus
 - Edit Menus
 - [Labels](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Controls/Labels)    ✅ (🛠 Visual Design - Typography ✔︎/ Accessibility - Introduction)
