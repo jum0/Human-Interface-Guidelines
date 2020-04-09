@@ -11,7 +11,7 @@
 
   - Introduction
   - Best Practices
-  - User Interaction
+  - [User Interaction](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Technologies/Accessibility/User%20Interaction)    ✅ (🛠 User Interaction - Gestures) 
   - Navigation
   - [Text Size and Weight](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Technologies/Accessibility/Text%20Size%20and%20Weight)    ✅
   - [Color and Contrast](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Technologies/Accessibility/Color%20and%20Contrast)    ✅
@@ -51,7 +51,9 @@
 - Feedback
 - File Handling
 - Gestures
+- Haptics
 - Near Field Communication
+- Pointers (iPadOS)
 - [Undo and Redo](https://github.com/jum0/Human-Interface-Guidelines/tree/master/User%20Interaction/Undo%20and%20Redo)    ✅
 
 
@@ -98,6 +100,7 @@
 
 - [Navigation Bars](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Bars/Navigation%20Bars)    ✅ (🛠 Controls - Segmented Controls)
 - Search Bars
+- Status Bars
 - [Tab Bars](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Bars/Tab%20Bars)    ✅ (🛠 Icons and Images - System Icons / Icons and Images - Custom Icons)
 - [Toolbars](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Bars/Toolbars)    ✅
 
