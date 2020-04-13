@@ -133,7 +133,7 @@
 - [Pickers](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Controls/Pickers)    ✅
 - Progress Indicators
 - [Refresh Content Controls](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Controls/Refresh%20Content%20Controls)    ✅
-- Segmented Controls
+- [Segmented Controls](https://github.com/jum0/Human-Interface-Guidelines/tree/master/Controls/Segmented%20Controls)    ✅
 - Sliders
 - Steppers
 - Switches
