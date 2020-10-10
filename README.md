@@ -1,4 +1,12 @@
 # Human Interface Guidelines
+
+
+### [블로그](https://wnsah052.tistory.com/9)에서 포스팅 중입니다!
+
+
+
+---
+
 🛠 - Hyperlink connection not completed
 
 ✔︎ - Translated document not connected hyperlink 
